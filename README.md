@@ -84,7 +84,7 @@ Ene. 2025 – Jun. 2025 · Freelance · Panamá
 * Diseño de vistas SQL consolidando datos de 5+ tablas para reportes transaccionales
 
 **Full-Stack Developer – PaperEase**
-Ago. 2024 – nov. 2024 · Freelance · Panamá
+Ago. 2024 – Nov. 2024 · Freelance · Panamá
 
 * Lideré el desarrollo backend de una aplicación full-stack con Node.js y MySQL, automatizando workflows institucionales y reemplazando procesos 100% manuales
 * Implementación de control de acceso basado en roles, cifrado con bcrypt y tabla de auditoría con timestamps y metadata IP
@@ -92,7 +92,7 @@ Ago. 2024 – nov. 2024 · Freelance · Panamá
 * Dashboards estadísticos con Chart.js para visualización de tendencias por programa, categoría y año
 
 **Software Developer – CMDB Inventory**
-Nov. 2025 – dic. 2025 · Freelance · Panamá
+Nov. 2025 – Dic. 2025 · Freelance · Panamá
 
 * Arquitectura multi-módulo en PHP con patrones MVC y OOP, base de datos MySQL para tracking de equipos, asignaciones y jerarquías
 * Implementación de estándares OWASP Top 10: prevención de SQL injection, validación CSRF, rate limiting y device fingerprinting con SHA-256
