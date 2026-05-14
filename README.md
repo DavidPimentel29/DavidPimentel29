@@ -1,6 +1,6 @@
 # David — Software Engineering Student & Developer
 
-📍 Panamá City, Panamá | 🌐 __[GitHub](https://github.com/TU_USUARIO)__ | 👤 __[LinkedIn](https://linkedin.com/in/TU_LINKEDIN)__ | ✉️ __[tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)__
+📍 Panamá City, Panamá | 🌐 __[GitHub](https://github.com/DavidPimentel29)__ | 👤 __[LinkedIn](https://www.linkedin.com/in/david-pimentel29/)__ | ✉️ __[Gmail](david92garay@gmail.com)__
 
 ---
 
