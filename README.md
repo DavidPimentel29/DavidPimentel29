@@ -1,4 +1,4 @@
-# David Jose Pimentel
+# David José Pimentel Garay
 
 Software Engineer
 
