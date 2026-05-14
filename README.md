@@ -110,8 +110,7 @@ Nov. 2025 – Dic. 2025 · Freelance · Panamá
 * **Ingeniería de Software** – Universidad Tecnológica de Panamá (UTP) · En curso (2023–2027)
 * **Becario IFARHU** – Beca General por rendimiento académico
 * **Diploma Bilingüe** – Instituto Cultural · Ciencias, Humanidades e Informática (2009–2022)
-* **Diploma Bilingüe** – Instituto Cultural · Ciencias, Humanidades e Informática (2009–2022)
-* **Inglés profesional – Instituto Cultural bilingüe (Nivel Avanzado)
+* **Inglés profesional** – Instituto Cultural bilingüe (Nivel Avanzado)
 
 ---
 
