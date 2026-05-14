@@ -68,7 +68,6 @@ También realizo trabajo freelance en evaluación y anotación de datos para mod
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino/ESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
