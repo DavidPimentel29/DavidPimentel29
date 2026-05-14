@@ -76,7 +76,7 @@ También realizo trabajo freelance en evaluación y anotación de datos para mod
 ## 🧭 Experiencia
 
 **Software Developer – TourIstmo**
-ene. 2025 – Actualidad · Freelance · Panamá
+Ene. 2025 – Jun. 2025 · Freelance · Panamá
 
 * Diseño e implementación de base de datos relacional en Oracle DB con 15+ tablas, normalización hasta 3NF e integridad referencial
 * Desarrollo de 10+ stored procedures, funciones, triggers y cursores en PL/SQL para automatizar validaciones y workflows de aprobación
@@ -84,7 +84,7 @@ ene. 2025 – Actualidad · Freelance · Panamá
 * Diseño de vistas SQL consolidando datos de 5+ tablas para reportes transaccionales
 
 **Full-Stack Developer – PaperEase**
-ago. 2024 – Actualidad · Freelance · Panamá
+Ago. 2024 – nov. 2024 · Freelance · Panamá
 
 * Lideré el desarrollo backend de una aplicación full-stack con Node.js y MySQL, automatizando workflows institucionales y reemplazando procesos 100% manuales
 * Implementación de control de acceso basado en roles, cifrado con bcrypt y tabla de auditoría con timestamps y metadata IP
@@ -92,7 +92,7 @@ ago. 2024 – Actualidad · Freelance · Panamá
 * Dashboards estadísticos con Chart.js para visualización de tendencias por programa, categoría y año
 
 **Software Developer – CMDB Inventory**
-nov. 2025 – Actualidad · Freelance · Panamá
+Nov. 2025 – dic. 2025 · Freelance · Panamá
 
 * Arquitectura multi-módulo en PHP con patrones MVC y OOP, base de datos MySQL para tracking de equipos, asignaciones y jerarquías
 * Implementación de estándares OWASP Top 10: prevención de SQL injection, validación CSRF, rate limiting y device fingerprinting con SHA-256
@@ -110,6 +110,8 @@ nov. 2025 – Actualidad · Freelance · Panamá
 * **Ingeniería de Software** – Universidad Tecnológica de Panamá (UTP) · En curso (2023–2027)
 * **Becario IFARHU** – Beca General por rendimiento académico
 * **Diploma Bilingüe** – Instituto Cultural · Ciencias, Humanidades e Informática (2009–2022)
+* **Diploma Bilingüe** – Instituto Cultural · Ciencias, Humanidades e Informática (2009–2022)
+* **Inglés profesional – Instituto Cultural bilingüe (Nivel Avanzado)
 
 ---
 
