@@ -1,14 +1,16 @@
-# David — Software Engineering Student & Developer
+# David Jose Pimentel
 
-📍 Panamá City, Panamá | 🌐 __[GitHub](https://github.com/DavidPimentel29)__ | 👤 __[LinkedIn](https://www.linkedin.com/in/david-pimentel29/)__ | ✉️ __[david92garay@gmail.com](https://mail.google.com/mail/u/5/?ogbl#inbox)__
+Software Engineer
+
+📍 Panamá City, Panamá | 🌐 __[GitHub](https://github.com/DavidPimentel29)__ | 👤 __[LinkedIn](https://www.linkedin.com/in/david-pimentel29/)__ | 🌐 __[Portfolio](https://pimenteldev.vercel.app)__ | ✉️ __[david92garay@gmail.com](https://mail.google.com/mail/u/5/?ogbl#inbox)__
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Software** en la **Universidad Tecnológica de Panamá (UTP)**, actualmente en mi cuarto semestre. Combino mis estudios con experiencia laboral en soporte técnico y operaciones en **Alorica** (proyecto Bill.com) y trabajo freelance en evaluación de IA y anotación de datos.
+Soy Ingeniero de Software con experiencia en desarrollo, bases de datos relacionales y sistemas IoT. Me especializo en la construcción de aplicaciones web completas, desde el backend con Node.js y Oracle PL/SQL hasta interfaces interactivas con JavaScript y Bootstrap, aplicando arquitecturas REST, patrones MVC y estándares de seguridad OWASP.
 
-Me apasiona el desarrollo full-stack, la automatización y construir soluciones que resuelvan problemas reales. Siempre estoy buscando oportunidades para crecer profesionalmente, ya sea a través de proyectos personales, prácticas profesionales o colaboración en código abierto.
+También realizo trabajo freelance en evaluación y anotación de datos para modelos de inteligencia artificial, combinando mis habilidades técnicas con el campo de la IA.
 
 ---
 
@@ -16,48 +18,36 @@ Me apasiona el desarrollo full-stack, la automatización y construir soluciones 
 
 ### 🌐 Desarrollo Web Full-Stack
 
-- **Backend:** Node.js, Express.js, PHP, PL/SQL
-- **Frontend:** JavaScript, HTML/CSS, Bootstrap, Chart.js
-- **Bases de datos:** Oracle DB, MySQL, PostgreSQL
-- **Arquitectura:** APIs REST, MVC, integración de servicios
+* Backend con Node.js, Express.js, PHP y PL/SQL
+* Frontend con JavaScript, HTML/CSS, Bootstrap y Chart.js
+* Bases de datos relacionales: Oracle DB, MySQL, PostgreSQL
+* Arquitectura REST, patrón MVC, OOP e integración de servicios
 
 ### 📱 Desarrollo Móvil
 
-- Android nativo con **Kotlin** y **Jetpack Compose**
-- Diseño de interfaces y navegación entre actividades
-- Proyectos académicos funcionales (calculadoras, sistemas de tickets)
+* Android nativo con Kotlin y Jetpack Compose
+* Diseño de interfaces y navegación entre actividades
+* Aplicaciones funcionales: calculadoras, sistemas de tickets de transporte
 
 ### 🔧 Herramientas y DevOps
 
-- Git & GitHub
-- Linux (Ubuntu, administración de servidores)
-- VirtualBox, Cisco Packet Tracer
-- Automatización con scripts Bash y Python
+* Git & GitHub para control de versiones
+* Linux (Ubuntu) – administración de servidores
+* VirtualBox, Cisco Packet Tracer, Power BI
+* Automatización con scripts Bash y Python
 
-### 🌐 Redes y Comunicaciones
+### 🔐 Seguridad y Calidad
 
-- Modelo TCP/IP, análisis de tráfico con Wireshark
-- Protocolos PPP, HDLC, direccionamiento IP
-- Configuración de redes en Cisco Packet Tracer
+* Implementación de estándares OWASP Top 10
+* Evaluación de calidad bajo ISO/IEC 25010
+* Control de acceso basado en roles (RBAC), cifrado con bcrypt
+* Prevención de SQL injection, validación CSRF, rate limiting
 
 ### 🤖 IA y Datos
 
-- Evaluación y anotación de datos para modelos de IA (Outlier/Aether)
-- Prompt engineering para generación de imágenes y texto
-- Análisis exploratorio de datos con Python y Pandas
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **TourIstmo** | Plataforma de turismo para Centroamérica | Node.js, Express, MySQL, Bootstrap |
-| **PaperEase** | Sistema de gestión documental | PHP, JavaScript, MySQL |
-| **CMDB Inventory** | Sistema de gestión de inventario tipo CMDB | Node.js, Oracle DB, Chart.js |
-| **Sistema Bancario** | Sistema con operaciones bancarias usando PL/SQL | Oracle DB, PL/SQL, Node.js |
-| **Riego Automatizado** | Sistema IoT de riego con ESP32 | C++, ESP32, sensores de humedad |
-| **Jellyfin Server** | Servidor de streaming personal | Ubuntu, VirtualBox, Jellyfin |
+* Evaluación y anotación de datos para entrenamiento de modelos de IA
+* Prompt engineering para generación de imágenes y texto
+* Análisis exploratorio de datos con Python y Pandas
 
 ---
 
@@ -68,13 +58,16 @@ Me apasiona el desarrollo full-stack, la automatización y construir soluciones 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino/ESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
 
@@ -82,25 +75,44 @@ Me apasiona el desarrollo full-stack, la automatización y construir soluciones 
 
 ## 🧭 Experiencia
 
-**Alorica — Proyecto Bill.com**
-ene. 2026 – Actualidad · Panamá
+**Software Developer – TourIstmo**
+ene. 2025 – Actualidad · Freelance · Panamá
 
-- Soporte y operaciones en la plataforma BILL Spend & Expense
-- Manejo de integraciones contables, campos personalizados y control de accesos (RBAC)
+* Diseño e implementación de base de datos relacional en Oracle DB con 15+ tablas, normalización hasta 3NF e integridad referencial
+* Desarrollo de 10+ stored procedures, funciones, triggers y cursores en PL/SQL para automatizar validaciones y workflows de aprobación
+* Implementación de lógica transaccional con manejo de COMMIT/ROLLBACK y gestión de excepciones
+* Diseño de vistas SQL consolidando datos de 5+ tablas para reportes transaccionales
+
+**Full-Stack Developer – PaperEase**
+ago. 2024 – Actualidad · Freelance · Panamá
+
+* Lideré el desarrollo backend de una aplicación full-stack con Node.js y MySQL, automatizando workflows institucionales y reemplazando procesos 100% manuales
+* Implementación de control de acceso basado en roles, cifrado con bcrypt y tabla de auditoría con timestamps y metadata IP
+* Evaluación formal de calidad bajo ISO/IEC 25010 con 80% de pass rate y 83% de code coverage
+* Dashboards estadísticos con Chart.js para visualización de tendencias por programa, categoría y año
+
+**Software Developer – CMDB Inventory**
+nov. 2025 – Actualidad · Freelance · Panamá
+
+* Arquitectura multi-módulo en PHP con patrones MVC y OOP, base de datos MySQL para tracking de equipos, asignaciones y jerarquías
+* Implementación de estándares OWASP Top 10: prevención de SQL injection, validación CSRF, rate limiting y device fingerprinting con SHA-256
+* Dashboard de métricas en tiempo real con Chart.js mostrando 5 categorías de estado operativo
 
 **Outlier / Aether — Freelance**
-Evaluación y anotación de datos para entrenamiento de modelos de IA, incluyendo tareas de evaluación de imágenes y bounding box annotation.
+
+* Evaluación y anotación de datos para entrenamiento de modelos de IA
+* Tareas de evaluación de imágenes y bounding box annotation
 
 ---
 
-## 🎓 Formación
+## 🎓 Formación y Certificaciones
 
-- **Ingeniería de Software** – Universidad Tecnológica de Panamá (UTP) · En curso (4to semestre)
-- **Becario IFARHU** – Beca General por rendimiento académico
-- **Cursos relevantes:** Desarrollo Android en Kotlin, Protocolos de Comunicación, Gerencia de Proyectos, Computación Gráfica, Redes de Computadoras
+* **Ingeniería de Software** – Universidad Tecnológica de Panamá (UTP) · En curso (2023–2027)
+* **Becario IFARHU** – Beca General por rendimiento académico
+* **Diploma Bilingüe** – Instituto Cultural · Ciencias, Humanidades e Informática (2009–2022)
 
 ---
 
 ## 📫 ¿Hablamos?
 
-Estoy abierto a colaborar en proyectos, oportunidades de prácticas profesionales o pasantías en desarrollo de software. Si tienes algo interesante en mente, ¡escríbeme!
+Estoy siempre abierto a colaborar en proyectos, oportunidades profesionales y compartir ideas sobre desarrollo de software, IoT y tecnología en general. ¡No dudes en contactarme!
