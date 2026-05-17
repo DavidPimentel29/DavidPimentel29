@@ -66,6 +66,7 @@ También realizo trabajo freelance en evaluación y anotación de datos para mod
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino/ESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/DavidPimentel29/PaperEase-be)
 
 ---
 
